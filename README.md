@@ -5,3 +5,7 @@ Author: Chaewon Kim
 Updated locally
 
 ## Edited on Github web
+
+## About Me
+Hi, I’m Chaewon.
+I’m learning how to use GitHub Issues.
