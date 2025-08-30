@@ -2,7 +2,7 @@
 This is my first GitHub repository for the Reproducibility & Model Deployment course.  
 Author: Chaewon Kim
 
-Updated locally
+I am changing this.
 
 ## Edited on Github web
 
